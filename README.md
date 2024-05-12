@@ -1,4 +1,4 @@
-# repositório do ddesafio da DIO
+# repositório do desafio da DIO
 Projeto de aprendizado sobre Git/Github.
 
 ## Links úteis.
